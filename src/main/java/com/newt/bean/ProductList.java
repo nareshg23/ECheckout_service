@@ -8,6 +8,8 @@ public class ProductList {
 	
 	 private int productId;
 	
+	
+	
 	 private String productName;
 	
 	 private long customerId;
