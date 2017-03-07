@@ -8,7 +8,6 @@ public class ProductCheckoutDetails {
  private Long customerId;
  private String customerName;
  private String customerEmail;
-
  private String address1;
 
  private String address2;
@@ -26,7 +25,7 @@ public class ProductCheckoutDetails {
  private Date cardExpDate;
  
  private List<ProductList> productList = new ArrayList<ProductList>();
- public ProductCheckoutDetails() {
+public ProductCheckoutDetails() {
  }
 
  public Long getCustomerId() {
