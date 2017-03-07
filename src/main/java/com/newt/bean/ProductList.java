@@ -5,7 +5,6 @@ import com.newt.commonutils.Productstatus;
 public class ProductList {
 	 private int productcheckoutId;
 	 private int productId;
-		
 	 private String productName;
 	
 	 private long customerId;
