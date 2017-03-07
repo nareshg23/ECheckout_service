@@ -4,6 +4,7 @@ import java.util.Date;
 import java.util.List;
 
 public class ProductCheckoutDetails {
+	
 
  private Long customerId;
 
