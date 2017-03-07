@@ -29,8 +29,7 @@ public class ProductList {
 	 public int getProductId() {
 	  return productId;
 	 }
-	
-	 public void setProductId(int productId) {
+		 public void setProductId(int productId) {
 	  this.productId = productId;
 	 }
 	
