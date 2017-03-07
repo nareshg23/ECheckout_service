@@ -28,7 +28,6 @@ public class ProductCheckoutDetails {
  private Date cardExpDate;
  
  private List<ProductList> productList = new ArrayList<ProductList>();
-
  public ProductCheckoutDetails() {
  }
 
