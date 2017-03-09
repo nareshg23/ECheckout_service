@@ -1,7 +1,6 @@
 package com.newt.service;
 
 import com.newt.model.Checkout;
-
 public interface CheckoutService {
 	
 	public Checkout findCheckoutByorderId(int customerId);
