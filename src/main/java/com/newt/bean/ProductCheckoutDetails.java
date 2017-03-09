@@ -8,7 +8,6 @@ public class ProductCheckoutDetails {
  private String customerName;
  private String customerEmail;
  private String address1;
-
  private String address2;
 
  private String city;
