@@ -2,8 +2,7 @@ package com.newt.bean;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-public class ProductCheckoutDetails {
-	
+public class ProductCheckoutDetails {	
 	
 private Long customerId;
  private String customerName;
